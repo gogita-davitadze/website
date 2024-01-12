@@ -1,0 +1,203 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+body header nav {
+  margin-top: 18px;
+  margin-left: 165px;
+}
+body header nav ul li {
+  font-size: 14px;
+  color: #2245e3;
+  display: inline-block;
+  margin-right: 60px;
+}
+body header nav ul li h1 {
+  font-size: 26px;
+  color: #2245e3;
+  display: inline-block;
+  margin: 6px 295px 0px 271px;
+}
+body header nav ul li Button {
+  font-size: 12px;
+  color: #fff;
+  padding: 4px;
+  background-color: #111b47;
+  width: 160px;
+  height: 26px;
+}
+body main section {
+  display: flex;
+}
+body main section .conteiner {
+  margin: 263px 85px 471px 152px;
+  width: 540px;
+  height: 421px;
+}
+body main section .conteiner p {
+  font-size: 50px;
+  color: #111b47;
+  margin-bottom: 20px;
+}
+body main section .conteiner h1 {
+  color: #2245e3;
+  font-size: 18px;
+  margin-bottom: 69px;
+}
+body main section .conteiner form :nth-child(1) {
+  color: #fff;
+  width: 189px;
+  height: 36px;
+  background-color: #111b47;
+  font-size: 16px;
+  margin-right: 30px;
+}
+body main section .conteiner form :nth-child(2) {
+  color: #2245e3;
+  width: 189px;
+  height: 36px;
+  background-color: #fff;
+  font-size: 16px;
+  border: 2px solid #000;
+}
+body main section img {
+  margin-top: 187px;
+  width: 652px;
+  height: 780px;
+}
+
+/*# sourceMappingURL=stles.css.map */
